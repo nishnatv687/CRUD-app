@@ -76,7 +76,7 @@ const RegisterPage = () => {
          {...register("role")}
          className="w-full border border-gray-300 rounded-lg px-4 py-2">
          <option value="">Select role</option>
-         <option value="buyer">Buyer</option>
+         <option value="user">User</option>
          <option value="seller">Seller</option>
         </select>
        </div>
