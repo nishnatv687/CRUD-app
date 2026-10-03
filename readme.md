@@ -179,19 +179,16 @@ Product CRUD
 
 ## Live Demo
 
-Frontend: `YOUR_LIVE_FRONTEND_URL`
+Frontend: `https://crud-app-omega-seven.vercel.app/`
 
-Backend: `YOUR_LIVE_BACKEND_URL`
+Backend: `https://crud-app-mhys.onrender.com/`
 
 ## GitHub Repository
 
-`YOUR_GITHUB_REPOSITORY_URL`
+`https://github.com/nishnatv687/CRUD-app`
 
 ## Author
 
-**Your Name**
+**Nishant Verma**
 
 B.Tech CSE Student
-
-GitHub: `YOUR_GITHUB_PROFILE_URL`
-LinkedIn: `YOUR_LINKEDIN_PROFILE_URL`
