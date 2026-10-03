@@ -47,6 +47,7 @@ const ProductCard = ({ product }) => {
           </div>
 
           <button
+            onClick={()=>navigate(`/products/${product._id}`)}
             className="px-4 py-2.5 bg-gray-900 text-white text-sm font-semibold
             rounded-lg hover:bg-blue-600 transition-colors duration-300"
           >
