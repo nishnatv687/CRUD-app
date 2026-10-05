@@ -141,7 +141,7 @@ export async function refresh(req,res){
         data:{
             user:{
                 name:user.name,
-                emai:user.email,
+                email:user.email,
                 role:user.role,
             },
             accessToken
